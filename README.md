@@ -8,17 +8,11 @@ El Cap is an early-stage (pre-seed/seed) VC firm focused on backing deeply tech
 
 ### **🔑 Links:**
 
-**[Fund II deck](https://app.box.com/s/aeqxc2h4ris9d5bxxscwy040qos67v9b)**
+**[Fund II deck](https://app.box.com/s/aeqxc2h4ris9d5bxxscwy040qos67v9b)**                         [**Founders’ Letter**](https://mirror.xyz/0xA00D13D2067F6D6afAF4705A624117Cf962B2515/cQ_XguVBHt9VEv1JjN95V8cmFhWrxfVoVm-FdOk7kVI)
 
-[**Investor updates**](https://app.box.com/s/tiv1bw46z0abr7fyhvt5dz1mxdf1rl2i)
+[**Investor updates**](https://app.box.com/s/tiv1bw46z0abr7fyhvt5dz1mxdf1rl2i)                     **[Contributors program](https://contributors.super.site/)** 
 
-[**Website**](http://elcap.xyz)
-
-[**Founders’ Letter**](https://mirror.xyz/0xA00D13D2067F6D6afAF4705A624117Cf962B2515/cQ_XguVBHt9VEv1JjN95V8cmFhWrxfVoVm-FdOk7kVI)
-
-**[Contributors program](https://contributors.super.site/)**
-
-[**Contact us**](mailto:partners@elcap.xyz)
+[**Website**](http://elcap.xyz)                                                                    [**Contact us**](mailto:partners@elcap.xyz)
 
 ### **What’s unique about El Cap relative to other funds?**
 
@@ -55,9 +49,9 @@ Co-Founders: [Stew Bradley](https://stew.so/) and [Kunal Tandon](http://twitter.
     - The investment opens up access to a valuable network with new nodes and sources of deal flow, information, and learning about a space we care about
 - 30% of dollars reserved for follow on into companies with traction, with additional dollars sourced through SPV vehicles for later-stage and select co-invest opportunities. Good venture returns are driven by access and picking, great venture returns are created by the ability to choose where and when you deploy more dollars.
 
-### **How do you think about El Cap as a firm?**### 
+### **How do you think about El Cap as a firm?** 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e41aa2c-8ebb-44ee-ab5a-1224b372eab6/Untitled.png)
+![Untitled](vcjob.png)
 
 Raising and deploying a fund is not sufficient to driving great returns. Access to the best founders and the ability to pick them is also insufficient. In a venture market that is more crowded than ever before, it’s critical to think about one’s firm as a product—similar to the way we evaluate potential investments. How are we different? How do we win? How do we learn? How do we add real value? Why would someone pick us instead of another product in the market? These are the questions we are obsessed with at El Cap. We’re hyper-focused on expanding and refining the system we’ve created to find, diligence, invest, and then support the best companies at the earliest stages. We’re obsessed with constantly learning and improving how we approach this job every single day. 
 
