@@ -1,14 +1,13 @@
 # el-cap
-el cap FAQ
-
-El Cap FAQ
+FAQ
 ---
 
 El Cap is an early-stage (pre-seed/seed) VC firm focused on backing deeply technical founders building near collisions of innovation and behavior change in B2B, cloud infrastructure, developer tools, and web3 markets. El Cap gets involved at a project level with each investment, targets double-digit ownership in core investments, and takes board seats at the Seed round. We created a Contributors Program with industry-leading experts in engineering, design, research, security, and GTM to help our portfolio companies move faster at the earliest stages. Our first fund has made great progress, currently valued at 11.5x. We’re actively raising our second fund ($50m/hardcap $75m), have done a first close, and have made five new investments out of our second fund.
 
 ### **🔑 Links:**
 
-[**Website**](http://elcap.xyz)                                                                    [**Contact us**](mailto:partners@elcap.xyz)
+[**Website**](http://elcap.xyz)                                                                    
+[**Contact us**](mailto:partners@elcap.xyz)
 
 ### **What’s unique about El Cap relative to other funds?**
 
@@ -35,19 +34,7 @@ We solely focus on backing deeply technical founders. We’re looking for the gi
 
 Co-Founders: [Stew Bradley](https://stew.so/) and [Kunal Tandon](http://twitter.com/kunaltandon). Learn more about us and how we think about investing in our [**Founders’ Letter**](https://mirror.xyz/0xA00D13D2067F6D6afAF4705A624117Cf962B2515/cQ_XguVBHt9VEv1JjN95V8cmFhWrxfVoVm-FdOk7kVI).
 
-### **What is the fund size and how will the portfolio be constructed?**
-
-- We are targeting $50m (hard cap $75m), investing in Pre-Seed and Seed software companies led by technical founders.
-- 50% of dollars will go into core Seed checks $1m-$2m, leading, taking a board seat.
-- 20% of dollars will go into infrastructure + very early bets. These are select investments where two or more of the following are true:
-    - Pre-Seed, too early for our core check but we love the team/product/market
-    - Too small of a round to get our core double digit ownership, but we still love the founding team
-    - The investment opens up access to a valuable network with new nodes and sources of deal flow, information, and learning about a space we care about
-- 30% of dollars reserved for follow on into companies with traction, with additional dollars sourced through SPV vehicles for later-stage and select co-invest opportunities. Good venture returns are driven by access and picking, great venture returns are created by the ability to choose where and when you deploy more dollars.
-
 ### **How do you think about El Cap as a firm?** 
-
-![Untitled](vcjob.png)
 
 Raising and deploying a fund is not sufficient to driving great returns. Access to the best founders and the ability to pick them is also insufficient. In a venture market that is more crowded than ever before, it’s critical to think about one’s firm as a product—similar to the way we evaluate potential investments. How are we different? How do we win? How do we learn? How do we add real value? Why would someone pick us instead of another product in the market? These are the questions we are obsessed with at El Cap. We’re hyper-focused on expanding and refining the system we’ve created to find, diligence, invest, and then support the best companies at the earliest stages. We’re obsessed with constantly learning and improving how we approach this job every single day. 
 
