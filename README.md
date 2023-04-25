@@ -8,10 +8,6 @@ El Cap is an early-stage (pre-seed/seed) VC firm focused on backing deeply tech
 
 ### **🔑 Links:**
 
-**[Fund II deck](https://app.box.com/s/aeqxc2h4ris9d5bxxscwy040qos67v9b)**                         [**Founders’ Letter**](https://mirror.xyz/0xA00D13D2067F6D6afAF4705A624117Cf962B2515/cQ_XguVBHt9VEv1JjN95V8cmFhWrxfVoVm-FdOk7kVI)
-
-[**Investor updates**](https://app.box.com/s/tiv1bw46z0abr7fyhvt5dz1mxdf1rl2i)                     **[Contributors program](https://contributors.super.site/)** 
-
 [**Website**](http://elcap.xyz)                                                                    [**Contact us**](mailto:partners@elcap.xyz)
 
 ### **What’s unique about El Cap relative to other funds?**
