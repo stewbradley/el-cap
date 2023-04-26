@@ -2,7 +2,7 @@
 FAQ
 ---
 
-El Cap is an early-stage (pre-seed/seed) VC firm focused on backing deeply technical founders building near collisions of innovation and behavior change in B2B, cloud infrastructure, developer tools, and web3 markets. El Cap gets involved at a project level with each investment, targets double-digit ownership in core investments, and takes board seats at the Seed round. We created a Contributors Program with industry-leading experts in engineering, design, research, security, and GTM to help our portfolio companies move faster at the earliest stages. Our first fund has made great progress, currently valued at 11.5x. We’re actively raising our second fund ($50m/hardcap $75m), have done a first close, and have made five new investments out of our second fund.
+El Cap is an early-stage (pre-seed/seed) VC firm focused on backing deeply technical founders building near collisions of innovation and behavior change in B2B, cloud infrastructure, developer tools, and web3 markets. El Cap gets involved at a project level with each investment, targets double-digit ownership in core investments, and takes board seats at the Seed round. We created a Contributors Program with industry-leading experts in engineering, design, research, security, and GTM to help our portfolio companies move faster at the earliest stages. Our first fund has made great progress, currently valued at 11.5x. We’re actively raising our second fund, have done a first close, and have made five new investments out of our second fund.
 
 ### **🔑 Links:**
 
